@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(71, 182, 182);
+}
+
+#image {
+width: 100%;
+height: auto;
+max-width: 5000px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+
+  #img-div{
+      text-align: center;
+      position: relative;
+      margin: 4% 10% 4% 10%;
+  }
+
+  #title{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: -56px
+  }
+
+#img-caption{
+    margin: auto;
+    width: 64%;
+    padding: 30px;
+}
+
+
+#tribute-info{
+    top: 100px;
+}
+#tribute-info-box{
+     border: 2px solid rgb(8, 46, 170);
+  box-shadow: 0 4px 16px -8px rgba(255, 255, 255, 0.664);
+  display: auto;
+  border-radius: 8px;
+  margin: auto;
+  width: 50%;
+}
+#tribute-info-img{
+    border: 2px solid rgb(8, 46, 170);
+    box-shadow: 0 4px 16px -8px rgba(255, 255, 255, 0.664);
+    height: auto;
+    max-width: 625px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+}
+
+
+#more{
+    font-size: 17px;
+    display: auto;
+    margin: auto;
+    width: 50%;
+    padding: 3cm;
+}
+#tribute-link{
+    text-decoration: none;
+}
+
+body{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0.493);
+    color: white;
+    text-align: center;
+    border: 2px solid rgba(255, 0, 0, 0);
+}
